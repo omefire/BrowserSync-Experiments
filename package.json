@@ -1,0 +1,28 @@
+{
+  "name": "BrowserSync-Experiments",
+  "id": "BrowserSync-Experiments",
+  "version": "1.0.0",
+  "description": "BrowserSync Experiments",
+  "main": "server.js",
+  "author": "Omar Mefire <omefire@gmail.com>",
+  "license": "Apache 2.0",
+  "cordova": {
+    "id": "BrowserSync-Experiments",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "dependencies": {
+    "browser-sync": "2.7.13",
+    "q": "1.0.1"
+  }
+}
