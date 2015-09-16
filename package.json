@@ -1,7 +1,7 @@
 {
   "name": "BrowserSync-Experiments",
   "id": "BrowserSync-Experiments",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "BrowserSync Experiments",
   "main": "server.js",
   "author": "Omar Mefire <omefire@gmail.com>",
